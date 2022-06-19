@@ -10,7 +10,7 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
 - Data Science;
 - Data Analytics;
 - Data Engineer.
-  
+<br> 
 ### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -22,7 +22,7 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
 
 
 <br>
-
+<br>
 
 Se quiser se conectar comigo:
 <div id="badges">
