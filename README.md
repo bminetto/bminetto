@@ -21,9 +21,14 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
 </div>
 
+<br>
+
+<a href="https://github.com/bminetto">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bminetto&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
 <br>
-<br>
+
 
 Se quiser se conectar comigo:
 <div id="badges">
