@@ -19,7 +19,7 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
 </div>
- -> <a> 
+<a> 
 
 
 Se quiser se conectar comigo:
