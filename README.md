@@ -22,6 +22,7 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
 </div>
 
 <br>
+<br>
 
 <a href="https://github.com/bminetto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bminetto&layout=compact&langs_count=8&theme=light"/>
