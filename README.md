@@ -21,7 +21,7 @@ Atualmente trabalho como Analista de Hardware e meus principais interesses são:
 </div>
 
 
-<a> 
+<br>
 
 
 Se quiser se conectar comigo:
