@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bruna-minetto-83a044222/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
 
-Olá, me chamo Bruna Minetto
-
+### Sobre Mim:
+Olá, me chamo Bruna Minetto.
+Sou formada em engenharia sanitária e ambiental e mestre em engenharia civil pela Univerisidade Federal de Santa Maria. Durante minha formação atuei como pesquisadora desenvolvendo modelos preditivos desde a aquisição de dados até sua validação na área de hidrometeorologia.
+Atualmente trabalho como Analista de Hardware e meus principais interesses são:
+- **Data Science;
+- **Data Analytics;
+- **Data Engineer.
+  
 ### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
