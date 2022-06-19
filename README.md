@@ -2,7 +2,7 @@
 
 <!--
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif](https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)" width="100"/>
 </div>
 
 Here are some ideas to get you started:
