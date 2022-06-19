@@ -7,9 +7,9 @@
 Olá, me chamo Bruna Minetto.
 Sou formada em engenharia sanitária e ambiental e mestre em engenharia civil pela Univerisidade Federal de Santa Maria. Durante minha formação atuei como pesquisadora desenvolvendo modelos preditivos desde a aquisição de dados até sua validação na área de hidrometeorologia.
 Atualmente trabalho como Analista de Hardware e meus principais interesses são:
-- **Data Science;
-- **Data Analytics;
-- **Data Engineer.
+- Data Science;
+- Data Analytics;
+- Data Engineer.
   
 ### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
